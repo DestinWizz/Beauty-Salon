@@ -1,0 +1,6 @@
+{
+  "name": "Eterniou Luxury - Elite Braids & Hair Concierge",
+  "description": "Luxury mobile-first hair booking platform for Ugbor GRA, Adesuwa & Sapele Road Corridor, Benin City with transparent pricing, verified master stylists, and zero-DM WhatsApp concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
